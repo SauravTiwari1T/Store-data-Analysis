@@ -37,6 +37,12 @@ total number of order placed 21350.
 
 ![image](https://github.com/user-attachments/assets/81ca8c6b-c8bf-42df-90e4-c2c6f6a67ac9)
 
+# Join relevant tables to find the category-wise distribution of pizzas.
+
+![image](https://github.com/user-attachments/assets/f16f0d57-ca65-4eee-9d0f-99654da86acd)
+
+![image](https://github.com/user-attachments/assets/2715c6b8-5e5b-471a-a20c-41b7340964d8)
+
 
 
 
