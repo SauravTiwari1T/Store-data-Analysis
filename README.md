@@ -20,6 +20,13 @@ total number of order placed 21350.
 ![image](https://github.com/user-attachments/assets/03e46e3b-636c-4f3c-beb8-f94c50f88ae9)
 ![image](https://github.com/user-attachments/assets/0b6fa78c-2fbb-4497-a74e-4bb6a7abe628)
 
+# Identify the most common pizza size ordered.
+![image](https://github.com/user-attachments/assets/592a8add-3e44-4c32-ac2f-620834a29f4b)
+
+
+
+
+
 
 
 
