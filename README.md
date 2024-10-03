@@ -43,6 +43,14 @@ total number of order placed 21350.
 
 ![image](https://github.com/user-attachments/assets/2715c6b8-5e5b-471a-a20c-41b7340964d8)
 
+# Group the orders by date and calculate the average number of pizzas ordered per day.
+
+![image](https://github.com/user-attachments/assets/1f60ac67-beba-429c-875c-bb1144e01b9f)
+
+![image](https://github.com/user-attachments/assets/a4d2e09f-096b-4019-8ced-65bcaa75a87b)
+
+
+
 
 
 
