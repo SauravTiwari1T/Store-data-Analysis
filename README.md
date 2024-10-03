@@ -31,6 +31,12 @@ total number of order placed 21350.
 
 ![image](https://github.com/user-attachments/assets/472593ed-0d93-4822-b188-ce4e8255afd2)
 
+# Determine the distribution of orders by hour of the day.
+
+![image](https://github.com/user-attachments/assets/d92edbc4-ff6d-46fb-a3d5-30860bd97fd1)
+
+![image](https://github.com/user-attachments/assets/81ca8c6b-c8bf-42df-90e4-c2c6f6a67ac9)
+
 
 
 
