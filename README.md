@@ -25,6 +25,14 @@ total number of order placed 21350.
 
 
 
+# List the top 5 most ordered pizza types along with their quantities.
+
+![image](https://github.com/user-attachments/assets/8cb11ff0-5f76-4a94-9e25-7980a507eb88)
+
+![image](https://github.com/user-attachments/assets/472593ed-0d93-4822-b188-ce4e8255afd2)
+
+
+
 
 
 
