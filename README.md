@@ -16,6 +16,12 @@ total number of order placed 21350.
 
 ![image](https://github.com/user-attachments/assets/0f4ffed9-6423-493e-8f8d-2ff97236c217)
 
+# Identify the highest-priced pizza.
+![image](https://github.com/user-attachments/assets/03e46e3b-636c-4f3c-beb8-f94c50f88ae9)
+![image](https://github.com/user-attachments/assets/0b6fa78c-2fbb-4497-a74e-4bb6a7abe628)
+
+
+
 
 
 
