@@ -56,6 +56,14 @@ total number of order placed 21350.
 
 ![image](https://github.com/user-attachments/assets/64add375-9688-4110-9081-07825be14bc2)
 
+# Calculate the percentage contribution of each pizza type to total revenue.
+
+![image](https://github.com/user-attachments/assets/a04ed418-bb01-416d-b77c-5d462eb995a8)
+
+![image](https://github.com/user-attachments/assets/186b6480-78f0-4ccb-82f4-de97ae719b2e)
+
+
+
 
 
 
