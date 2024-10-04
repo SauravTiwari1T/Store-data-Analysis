@@ -68,6 +68,12 @@ total number of order placed 21350.
 
 ![image](https://github.com/user-attachments/assets/f4c17cce-e9f5-4344-b7af-a65c1c5ca005)
 
+# Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
+![image](https://github.com/user-attachments/assets/1480bef2-0d25-4811-8d83-353148d1ce09)
+
+![image](https://github.com/user-attachments/assets/dd3630a0-d9f8-48c5-936b-9d31db68eba0)
+
 
 
 
