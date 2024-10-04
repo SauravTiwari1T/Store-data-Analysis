@@ -62,8 +62,11 @@ total number of order placed 21350.
 
 ![image](https://github.com/user-attachments/assets/186b6480-78f0-4ccb-82f4-de97ae719b2e)
 
+# Analyze the cumulative revenue generated over time.
 
+![image](https://github.com/user-attachments/assets/4151e7e5-e9ae-421e-8572-69084aca244a)
 
+![image](https://github.com/user-attachments/assets/f4c17cce-e9f5-4344-b7af-a65c1c5ca005)
 
 
 
